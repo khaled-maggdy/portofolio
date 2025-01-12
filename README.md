@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://khaled-maggdy.github.io/portofolio/)
+### Weblink: [Live Website](https://github.com/khaled-maggdy/portofolio.git)
 
 ## Some Images:
 
