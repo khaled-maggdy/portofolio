@@ -1,7 +1,7 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://khaled-maggdy.github.io/portofolio/",
+  "homepage": "https://github.com/khaled-maggdy/portofolio.git",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
